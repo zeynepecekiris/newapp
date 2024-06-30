@@ -14,6 +14,7 @@ export default function CoursesInformationScreen() {
     desc="Kapsamli angular egitimi" />
     <Information title="C programlama Egitimi   "
     imageSource={require('../../assets/c.png')}
+    
     desc="Kapsamli angular egitimi" />
 
        
